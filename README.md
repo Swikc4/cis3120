@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <h3 align="center">CIS 3120 - Programming for Analytics</h3>
+  <h3 align="center">CIS 3120: Programming for Analytics</h3>
   <p align="center">
     Coursework repository for CIS 3120 at Baruch College (Zicklin School of Business)
     <br />
@@ -40,7 +40,7 @@ Topics covered in the course include Python programming, data analysis workflows
 
 ## Current Contents
 
-- `hello.py` - introductory Python practice file
+- `hello.py`: introductory Python practice file
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
