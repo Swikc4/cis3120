@@ -19,7 +19,6 @@
     <li><a href="#current-contents">Current Contents</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#skills-im-building">Skills I'm Building</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -65,13 +64,3 @@ prints `Hello CIS3120`.
 - Collaborative development workflows
 
 Note: this is a coursework repository. My more polished portfolio projects are highlighted on my [GitHub profile](https://github.com/Swikc4).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Contact
-
-Swikriti KC - [LinkedIn](https://www.linkedin.com/in/swikriti-kc/)
-
-Project Link: [https://github.com/Swikc4/cis3120](https://github.com/Swikc4/cis3120)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
